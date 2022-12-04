@@ -1,15 +1,14 @@
-{
-  "Ads":
-  [
+{  "Ads": [
     {
-      "select_main_ads": "",
+       "select_main_ads": "",
       "select_backup_ads":"",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
-      "native_for_admob":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "interval_intertitial": 0,
+      "main_ads_rewards":"",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -18,25 +17,34 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "https://"
+      "link_redirect": "https://",
+      "link_more_app":"https://play.google.com/store/apps/developer?id=MELMOD+PLAY"
+    
     }
-  ],
-
-  "More":
+    ],
+  "Guide":
   [
-   
+    
+    
+  ],"Wallpaper":
+  [
+    
+    
   ],
   "Skin":
   [
     
-  ],
-  "Addons":
-  [
     
   ],
-  "Maps":
+   "PartSkin":
   [
+   
+    
+  ],
+
+   "FreeItem":
+  [
+    
     
   ]
 }
-
